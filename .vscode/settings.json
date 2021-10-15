@@ -1,0 +1,8 @@
+{
+  "nrf-connect.topdir": "${workspaceFolder}\\..\\..\\v1.6.0",
+  "nrf-connect.toolchain.path": "${workspaceFolder}\\..\\..\\v1.6.0\\toolchain",
+  "nrf-connect.applications": [
+    "${workspaceFolder}"
+  ],
+  "C_Cpp.default.configurationProvider": "nrf-connect"
+}
